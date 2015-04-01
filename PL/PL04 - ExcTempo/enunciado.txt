@@ -1,0 +1,23 @@
+﻿Exercício Tempo
+
+1. Crie uma classe de nome Tempo com os atributos hora, minuto e segundo, sendo zero o valor por omissão. Esta classe deve disponibilizar funcionalidades que permitam:
+	a. Obter o estado de uma instância Tempo no formato:
+		"hh:mm:ss";
+		"hh:mm:ss AM (ou PM)".
+	b. Acrescentar 1 segundo a um dado tempo.
+	c. Verificar se um dado tempo é maior do que outro. Este tempo deve poder ser representado por uma instância de Tempo ou pelos valores simples das horas, minutos e segundos.
+	d. Determinar a diferença entre dois tempos fornecidos:
+		em segundos;
+		em Tempo.
+2. Crie uma nova classe com o nome TesteTempo que permita testar todas as funcionalidades da classe Tempo. Para isso: 
+	a. Crie uma instância da classe Tempo com o nome t1 e que represente o tempo: 5 horas, 30 minutos e 12 segundos.
+	b. Mostre o tempo t1 usando o formato "hh:mm:ss AM (ou PM)". 
+	c. Acrescente 1 segundo ao tempo t1.
+	d. Mostre novamente t1 usando o formato "hh:mm:ss AM (ou PM)".
+	e. Crie uma outra instância da classe Tempo chamada t2 que guarde o tempo: 18 horas, 5 minutos e 20 segundos.
+	f. Mostre o tempo t2 usando o formato "hh:mm:ss AM (ou PM)".
+	g. Verifique se o tempo t1 é maior do que o tempo t2.
+	h. Verifique se o tempo t1 é maior do que o tempo 23 horas, 7 minutos e 4 segundos usando o método que recebe por parâmetro as horas, os minutos e os segundos de um tempo.
+	i. Determinar a diferença entre o tempo t1 e o tempo t2:
+		em segundos;
+		em Tempo.
