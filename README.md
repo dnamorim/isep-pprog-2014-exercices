@@ -1,5 +1,5 @@
-# pprog_2014_exerciciosaulas
+# pprog_2014_exercicios
 
-Resolução dos Exercícios das Aulas TP e PL para a Unidade Curricular do 1ºAno - Paradigmas da Programação (PPROG) da LEI-ISEP.
+Resolução dos exercícios da Unidade Curricular "Paradigmas da Programação" (PPROG) do 1º Ano da [Licenciatura de Engenharia Informática](http://www.isep.ipp.pt/Course/Course/26) do [Instituto Superior de Engenharia do Porto](http://www.isep.ipp.pt) (LEI-ISEP).
 
-© [dnamorim](malito:dnamorim95@gmail.com), 2014
+© [Duarte Amorim](https://github.com/dnamorim), 2014
