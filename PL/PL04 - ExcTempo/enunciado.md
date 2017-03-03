@@ -9,6 +9,8 @@
 	4. Determinar a diferença entre dois tempos fornecidos:
 		* em segundos;
 		* em Tempo.
+		
+		
 2. Crie uma nova classe com o nome TesteTempo que permita testar todas as funcionalidades da classe Tempo. Para isso: 
 	1. Crie uma instância da classe Tempo com o nome t1 e que represente o tempo: 5 horas, 30 minutos e 12 segundos.
 	2. Mostre o tempo t1 usando o formato "hh:mm:ss AM (ou PM)". 
