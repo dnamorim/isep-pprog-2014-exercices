@@ -1,7 +1,9 @@
 #Exercício Empregado
 
 Pretende-se uma classe de nome Empregado que satisfaça os seguintes requisitos:
-* Possua os seguintes atributos: primeiroNome, ultimoNome, dataContrato, horaEntrada e horaSaida. O atributo dataContrato deve ser um objeto da classe Data fornecida. Os atributos horaEntrada e horaSaida devem ser objetos da classe Tempo também disponibilizada;
+* Possua os seguintes atributos: primeiroNome, ultimoNome, dataContrato, horaEntrada e horaSaida. 
+* O atributo dataContrato deve ser um objeto da classe Data fornecida. 
+* Os atributos horaEntrada e horaSaida devem ser objetos da classe Tempo também disponibilizada;
 * As classes Data e Tempo devem ser reutilizadas por composição;
 
 Disponibilize funcionalidades para:
