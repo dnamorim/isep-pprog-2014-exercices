@@ -1,9 +1,9 @@
 #Exercício Vencimentos
 
 As classes Trabalhador, TrabPeca, TrabCom e TrabHora foram construídas com base na necessidade de desenvolver um programa que calculasse os vencimentos mensais dos seguintes tipos de trabalhadores:
-* *Trabalhador à peça (TrabPeca):* vencimento dependente do número de peças produzidas. Foram considerados dois tipos de peças e com pagamentos diferentes, sendo atualmente estes pagamentos iguais a 15,50 € e 20,00 €;
-* *Trabalhador à comissão (TrabCom):* vencimento igual a um salário base mais uma percentagem das vendas. Foi considerado, por omissão, o salário base de 485 €;
-* Trabalhador à hora (TrabHora), vencimento proporcional às horas de trabalho. Foi considerado, por omissão, o pagamento à hora de 10 €.
+* **Trabalhador à peça (*TrabPeca*):** vencimento dependente do número de peças produzidas. Foram considerados dois tipos de peças e com pagamentos diferentes, sendo atualmente estes pagamentos iguais a 15,50 € e 20,00 €;
+* **Trabalhador à comissão (*TrabCom*):** vencimento igual a um salário base mais uma percentagem das vendas. Foi considerado, por omissão, o salário base de 485 €;
+* **Trabalhador à hora (*TrabHora*):** vencimento proporcional às horas de trabalho. Foi considerado, por omissão, o pagamento à hora de 10 €.
 
 Para tal, definiu-se uma classe para cada tipo de trabalhador com uma implementação apropriada do método vencimento() e uma superclasse com o nome Trabalhador.
 Analise o código destas classes e crie uma nova classe com o nome TesteVencimentos que permita testar todas as suas funcionalidades. Para isso:
