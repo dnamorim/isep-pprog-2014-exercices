@@ -7,7 +7,7 @@ O programa deve satisfazer os seguintes requisitos:
 * A lista de espera deve conter apenas nomes de utentes. 
 * Apresentar um interface com o utilizador do tipo consola.
 * Mostrar ao utilizador um menu com opções para:
-* Adicionar o nome de um utente à lista de espera.
-* Eliminar o nome do último utente atendido.
-* Listar todos os utentes em espera.
-* Terminar a execução da aplicação.
+  * Adicionar o nome de um utente à lista de espera.
+  * Eliminar o nome do último utente atendido.
+  * Listar todos os utentes em espera.
+  * Terminar a execução da aplicação.
